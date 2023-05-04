@@ -1,4 +1,4 @@
-# VAtTooL
+# SiraTool
 A tool has been created, which automates a set of tools that are used to carry out pentesting exercises.
 The functions it performs are:
 
