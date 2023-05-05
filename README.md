@@ -9,3 +9,8 @@ The functions it performs are:
 - Generation of a file with a .txt extension with all the information obtained and a mini-analysis of the information with ChatGPT.
 - (You can modify the parameters of the tools for each of the needs, modifying the python script)
 
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Crear una carpeta en la que añadir la herramienta y tambien se registraran los logs.
+
+Substituir 
