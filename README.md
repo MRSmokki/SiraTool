@@ -1,4 +1,7 @@
-# SiraTool
+# SiraTool v0.1 MRSmokki
+
+Description
+
 A tool has been created, which automates a set of tools that are used to carry out pentesting exercises.
 The functions it performs are:
 
@@ -11,6 +14,12 @@ The functions it performs are:
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-Crear una carpeta en la que añadir la herramienta y tambien se registraran los logs.
+Steps
 
-Substituir 
+Create a folder in which to add the tool and the logs will also be recorded.
+
+Replace line 81 with your api-key where it says <YOUR API KEY>
+  
+Run the tool with SUDO ex: sudo python3 SiraTool.py
+  
+-----------------------------------------------------------------------------------------------------------------------------------
