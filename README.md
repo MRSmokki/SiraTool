@@ -1,4 +1,4 @@
-# SiraTool v0.1 MRSmokki
+# SiraTool v0.1 
 
 Description
 
